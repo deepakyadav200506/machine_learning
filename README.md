@@ -10,7 +10,7 @@ and demonstrates how to:
 - Visualize the relationship between features and target
 - Use Git and GitHub for version control
 <br>
- Features
+### Features
 
 - Pregnancies  
 - Glucose 
@@ -28,3 +28,11 @@ and demonstrates how to:
    - Pandas
    - StandardScaler
    - Git & Github
+ 
+### Conclusion
+This project demonstrates how Machine Learning can be used in 
+the healthcare domain to assist in early diagnosis of diabetes. 
+It can potentially help doctors and patients make faster and 
+more informed decisions.
+
+
