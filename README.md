@@ -10,7 +10,7 @@ and demonstrates how to:
 - Visualize the relationship between features and target
 - Use Git and GitHub for version control
 <br>
-### Features
+ Features
 
 - Pregnancies  
 - Glucose 
