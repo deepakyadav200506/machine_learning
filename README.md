@@ -11,15 +11,15 @@ and demonstrates how to:
 - Use Git and GitHub for version control
 <br>
 ### Features
- - Pregnancies  
- - Glucose 
- - BloodPressure 
- - SkinThickness 
- - Insulin 
- - BMI 
- - DiabetesPedigreeFunction 
- - Age 
- - predict whether the person is diabetic or not
+- Pregnancies  
+- Glucose 
+- BloodPressure 
+- SkinThickness 
+- Insulin 
+- BMI 
+- DiabetesPedigreeFunction 
+- Age 
+- predict whether the person is diabetic or not
 
    ### Technologies/Tools Used
    - Python
