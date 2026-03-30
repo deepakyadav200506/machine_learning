@@ -11,12 +11,19 @@ and demonstrates how to:
 - Use Git and GitHub for version control
 <br>
 ### Features
- Pregnancies , 
- Glucose ,Plasma glucose concentration 
-| BloodPressure | Diastolic blood pressure (mm Hg) |
-| SkinThickness | Triceps skin fold thickness (mm) |
-| Insulin | 2-Hour serum insulin (mu U/ml) |
-| BMI | Body Mass Index |
-| DiabetesPedigreeFunction | Diabetes hereditary function |
-| Age | Age of the person (years) |
-| **Outcome** | **0 = Not Diabetic, 1 = Diabetic**
+ - Pregnancies  
+ - Glucose 
+ - BloodPressure 
+ - SkinThickness 
+ - Insulin 
+ - BMI 
+ - DiabetesPedigreeFunction 
+ - Age 
+ - predict whether the person is diabetic or not
+
+   ### Technologies/Tools Used
+   - Python
+   - Numpy
+   - Pandas
+   - StandardScaler
+   - Git & Github
